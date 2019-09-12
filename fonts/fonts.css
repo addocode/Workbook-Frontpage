@@ -1,0 +1,54 @@
+@font-face {
+  font-family: "f-black";
+  src: url(FrutigerLTStd-Black.otf) format("opentype");
+}
+
+@font-face {
+  font-family: "f-black-cn";
+  src: url(FrutigerLTStd-BlackCn.otf) format("opentype");
+}
+
+@font-face {
+  font-family: "f-black-it";
+  src: url(FrutigerLTStd-BlackItalic.otf) format("opentype");
+}
+
+@font-face {
+  font-family: "f-bold";
+  src: url(FrutigerLTStd-Bold.otf) format("opentype");
+}
+
+@font-face {
+  font-family: "f-bold-cn";
+  src: url(FrutigerLTStd-BoldCn.otf) format("opentype");
+}
+
+@font-face {
+  font-family: "f-bold-it";
+  src: url(FrutigerLTStd-BoldItalic.otf) format("opentype");
+}
+
+@font-face {
+  font-family: "f-cn";
+  src: url(FrutigerLTStd-Cn.otf) format("opentype");
+}
+
+@font-face {
+  font-family: "f-it";
+  src: url(FrutigerLTStd-Italic.otf) format("opentype");
+}
+
+@font-face {
+  font-family: "f-light";
+  src: url(FrutigerLTStd-Light.otf) format("opentype");
+}
+
+@font-face {
+  font-family: "f-light-it";
+  src: url(FrutigerLTStd-LightCn.otf) format("opentype");
+}
+
+@font-face {
+  font-family: "f-roman";
+  src: url(FrutigerLTStd-Roman.otf) format("opentype");
+}
